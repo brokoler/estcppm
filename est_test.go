@@ -59,7 +59,7 @@ const (
 	encodingBase64       = "base64"
 	encodingBinary       = "binary"
 	encodingHeader       = "Content-Transfer-Encoding"
-	enrollEndpoint       = "/.well-known/est/simpleenroll"
+	enrollEndpoint       = "/.well-known/est/ca:6"
 	hostHeader           = "Host"
 	mimeTypePKCS10       = "application/pkcs10"
 	mimeTypeText         = "text/plain"
